@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+<name>Oracle OCI</name>
+<os>Windows</os>
+<memory> 64 GB</memory>
+<webserver>Apace tomcat </webserver>
+<dbserver>Oracle</dbserver>
+</company>
