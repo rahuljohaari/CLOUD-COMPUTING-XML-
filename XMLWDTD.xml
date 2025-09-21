@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company
+[
+<!ELEMENT company (name,os,memory,webserver,dbserver)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT os (#PCDATA)>
+<!ELEMENT memory (#PCDATA)>
+<!ELEMENT webserver (#PCDATA)>
+<!ELEMENT dbserver (#PCDATA)>
+]>
+<company>
+<name>Oracle OCI</name>
+<os>Windows</os>
+<memory>64GB</memory>
+<webserver>Apace tomcat </webserver>
+<dbserver>Oracle</dbserver>
+</company>

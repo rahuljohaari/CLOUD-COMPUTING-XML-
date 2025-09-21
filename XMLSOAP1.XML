@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="https://www.w3.org/2003/05/soap-envelope">
+  <soap:Header>
+      SOAP-XML PROGRAM
+  </soap:Header>
+  <soap:Body>
+      <books>
+      <title>Introduction to Cloud Computing</title>
+      <author> Rahul Johari </author>
+        <bookdetails>
+            <PubHouse>Pearson</PubHouse>
+            <Price>Rs 325</Price>
+            <Numberofpages>300</Numberofpages>
+        </bookdetails>
+        <title>Cloud Computing for Beginners</title>
+        <author> Atul Tripathi </author>
+        <bookdetails>
+            <PubHouse>Pearson</PubHouse>
+            <Price>Rs 325</Price>
+            <Numberofpages>300</Numberofpages>
+        </bookdetails>
+  </books>
+  </soap:Body>
+</soap:Envelope>

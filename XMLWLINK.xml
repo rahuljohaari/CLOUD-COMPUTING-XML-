@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<book title="Introduction to Cloud Computing">
+  <description
+  xlink:type="simple"
+  xlink:href="/images/CSP.gif"
+  xlink:show="new">
+  This is a basic book of Cloud Computing
+  </description>
+  <author> Rahul Johari </author>
+  <bookdetails>
+     <PubHouse>Pearson</PubHouse>
+     <Price>Rs 325</Price>
+     <Numberofpages>300</Numberofpages>
+  </bookdetails>
+  
+  
+</book>
+
+<book title="Cloud Computing for Beginners">
+  <description
+  xlink:type="simple"
+  xlink:href="/images/XQuery.gif"
+  xlink:show="new">
+ This is Cloud Computing book for beginners
+  </description>
+    <author> Atul Tripathi </author>
+  <bookdetails>
+     <PubHouse>PHI</PubHouse>
+     <Price>Rs 275</Price>
+     <Numberofpages>300</Numberofpages>
+  </bookdetails>
+</book>
+
+</bookstore>
+<!--https://www.tutorialspoint.com/online_xml_editor.htm-->

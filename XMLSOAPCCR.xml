@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<soap:Envelope
+    xmlns:soap="http://https://cloud.gov.in//2025/01/soap-envelope"
+    soap:encodingStyle="http://https://cloud.gov.in/2025/01/soap-encoding">
+    <soap:Body xmlns:m="http://https://cloud.gov.in//in-en/company">
+        <m:GetCloudResources>
+            <m:vCPU> 4 </m:vCPU>
+                <m:BufferSpace>
+                    <m:RAM> 16GB </m:RAM>
+                    <m:HDISK> 40GB </m:HDISK>
+				</m:BufferSpace>
+            <m:PRINTER> HP </m:PRINTER >
+            <m:OS> Windows </m:OS>
+                <m:WebServer> Apache Tomcat Server </m:WebServer>
+                <m:DatabaseServer> MySQL </m:DatabaseServer>
+       </m:GetCloudResources>
+     </soap:Body>
+</soap:Envelope>
+

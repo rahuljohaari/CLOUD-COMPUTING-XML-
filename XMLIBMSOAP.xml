@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<soap:Envelope
+    xmlns:soap="http://www.ibm.com/2025/01/soap-envelope"
+    soap:encodingStyle="http://www.ibm.com/2025/01/soap-encoding">
+    
+    <soap:Body xmlns:m="http://https://www.ibm.com/in-en/company">
+        <m:GetCompanyProfile>
+            <m:CompanyName>IBM India Private Limited</m:CompanyName>
+            <m:City>NOIDA</m:City>
+            <m:Country>India</m:Country>
+            <m:CEO>IBM</m:CEO>
+        </m:GetCompanyProfile>
+    </soap:Body>
+</soap:Envelope>
